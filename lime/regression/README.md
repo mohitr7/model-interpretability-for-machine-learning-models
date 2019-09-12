@@ -1,0 +1,1 @@
+The file [**LIME on Random Forest (Regression).ipynb**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/blob/master/lime/regression/LIME%20on%20Random%20Forest%20(Regression).ipynb) contains the code to perform model interpretability for a Random Forest model using LIME on a regression problem.
