@@ -24,6 +24,7 @@
 
 ![](images/lime.jpg)
 
+<br>
 
 ### [Model Interpretability using LIME](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/lime)
 
@@ -39,6 +40,7 @@
 
 ![](images/shap.png)
 
+<br>
 
 ### [Model Interpretability using SHAP](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/shap)
 
