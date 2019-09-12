@@ -21,7 +21,7 @@
 
 - **[LIME](https://github.com/marcotcr/lime)** is a **python library** which tries to **solve for model interpretability by producing locally faithful explanations**. 
 
-
+<br><br> 
 ![](images/lime.jpg)
 
 <br>
@@ -37,7 +37,7 @@
 
 - **[SHAP](https://github.com/slundberg/shap) (SHapley Additive exPlanations)** is a unified approach to **explain the output of any machine learning model**.
 
-
+<br><br> 
 ![](images/shap.png)
 
 <br>
