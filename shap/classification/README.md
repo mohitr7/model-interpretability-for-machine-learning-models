@@ -1,0 +1,1 @@
+The file [**SHAP on Random Forest (Classification).ipynb**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/blob/master/shap/classification/SHAP%20on%20Random%20Forest%20(Classification).ipynb) contains the code to perform model interpretability for a Random Forest model using [**SHAP**](https://github.com/slundberg/shap) on a classification problem.
