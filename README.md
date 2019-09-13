@@ -69,3 +69,15 @@
   - [**classification**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/shap/classification): This **folder contains** the [**notebook**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/blob/master/shap/classification/SHAP%20on%20Random%20Forest%20(Classification).ipynb) with **classification dataset**.
   
   - [**regression**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/shap/regression): This **folder contains** the [**notebook**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/blob/master/shap/regression/SHAP%20on%20Random%20Forest%20(Regression).ipynb) with **regression dataset**.
+  
+ <br>
+ 
+ - If the **notebooks don't render** in **github**, **ope**n them **using** [**nbviewer**](https://nbviewer.jupyter.org/).
+ 
+   - **Open** the **notebook in github**.
+   
+   - **Copy** the **page URL**.
+   
+   - **Paste** the **URL in** [**nbviewer**](https://nbviewer.jupyter.org/).
+   
+   - **Click** on **Go**. Notebook will open in [**nbviewer**](https://nbviewer.jupyter.org/).
