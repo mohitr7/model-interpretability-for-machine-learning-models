@@ -59,16 +59,16 @@
   
 - [**lime**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/lime)
 
-  - [**classification**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/lime/classification): This **folder contains** the [**notebook**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/blob/master/lime/classification/LIME%20on%20Random%20Forest%20(Classification).ipynb) with **classification dataset**.
+  - [**classification**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/lime/classification): This **folder contains** the [**notebook**](https://nbviewer.jupyter.org/github/mohitr7/model-interpretability-for-machine-learning-models/blob/master/lime/classification/LIME%20on%20Random%20Forest%20%28Classification%29.ipynb) with **classification dataset**.
   
-  - [**regression**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/lime/regression): This **folder contains** the [**notebook**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/blob/master/lime/regression/LIME%20on%20Random%20Forest%20(Regression).ipynb) with **regression dataset**.
+  - [**regression**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/lime/regression): This **folder contains** the [**notebook**](https://nbviewer.jupyter.org/github/mohitr7/model-interpretability-for-machine-learning-models/blob/master/lime/regression/LIME%20on%20Random%20Forest%20%28Regression%29.ipynb) with **regression dataset**.
 
 
 - [**shap**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/shap)
 
-  - [**classification**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/shap/classification): This **folder contains** the [**notebook**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/blob/master/shap/classification/SHAP%20on%20Random%20Forest%20(Classification).ipynb) with **classification dataset**.
+  - [**classification**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/shap/classification): This **folder contains** the [**notebook**](https://nbviewer.jupyter.org/github/mohitr7/model-interpretability-for-machine-learning-models/blob/master/shap/classification/SHAP%20on%20Random%20Forest%20%28Classification%29.ipynb) with **classification dataset**.
   
-  - [**regression**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/shap/regression): This **folder contains** the [**notebook**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/blob/master/shap/regression/SHAP%20on%20Random%20Forest%20(Regression).ipynb) with **regression dataset**.
+  - [**regression**](https://github.com/mohitr7/model-interpretability-for-machine-learning-models/tree/master/shap/regression): This **folder contains** the [**notebook**](https://nbviewer.jupyter.org/github/mohitr7/model-interpretability-for-machine-learning-models/blob/master/shap/regression/SHAP%20on%20Random%20Forest%20%28Regression%29.ipynb) with **regression dataset**.
   
  <br>
  
